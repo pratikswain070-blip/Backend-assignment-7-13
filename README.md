@@ -11,15 +11,15 @@ A collection of backend development assignments covering REST APIs, real-time So
 
 | # | Folder | Description | Tech Stack |
 |---|--------|-------------|------------|
-| 07 | [`assignment-07-ecommerce-api`](./assignment-07-ecommerce-api/) | E-Commerce Product & Shopping Cart API | Node.js, Express, JSON File Storage |
-| 08 | [`assignment-08-gym-management-api`](./assignment-08-gym-management-api/) | Gym & Fitness Club Management REST API | Node.js, Express, MongoDB, Passport.js |
-| 09 | [`assignment-09-pharmacy-management-api`](./assignment-09-pharmacy-management-api/) | Pharmacy & Healthcare Store Management API | Node.js, Express, MongoDB |
-| 10 | [`assignment-10-car-rental-api`](./assignment-10-car-rental-api/) | Car Rental & Fleet Booking System API | Node.js, Express, Supabase (PostgreSQL) |
-| 11 | [`assignment-11-collaborative-whiteboard`](./assignment-11-collaborative-whiteboard/) | Real-Time Collaborative Whiteboard & Canvas | Node.js, Express, Socket.io |
-| 12 | [`assignment-12-event-management-api`](./assignment-12-event-management-api/) | Event Management & Ticketing API | Node.js, Express, Firebase, Swagger |
-| 13 | [`assignment-13-quiz-api`](./assignment-13-quiz-api/) | Real-Time Group Chat & Messaging Engine | Node.js, Express, Socket.io |
-| 14 | [`assignment-14-quiz-socket`](./assignment-14-quiz-socket/) | Real-Time Multiplayer Trivia Arena | Node.js, Express, Socket.io |
-| 15 | [`assignment-15-auction-socket`](./assignment-15-auction-socket/) | Live Auction Trading Floor | Node.js, Express, Socket.io, Web Audio API |
+| 07 | [`PratikSwain_150096725184-07-ecommerce-api`](./PratikSwain_150096725184-07-ecommerce-api/) | E-Commerce Product & Shopping Cart API | Node.js, Express, JSON File Storage |
+| 08 | [`PratikSwain_150096725184-08-gym-management-api`](./PratikSwain_150096725184-08-gym-management-api/) | Gym & Fitness Club Management REST API | Node.js, Express, MongoDB, Passport.js |
+| 09 | [`PratikSwain_150096725184-09-pharmacy-management-api`](./PratikSwain_150096725184-09-pharmacy-management-api/) | Pharmacy & Healthcare Store Management API | Node.js, Express, MongoDB |
+| 10 | [`PratikSwain_150096725184-10-car-rental-api`](./PratikSwain_150096725184-10-car-rental-api/) | Car Rental & Fleet Booking System API | Node.js, Express, Supabase (PostgreSQL) |
+| 11 | [`PratikSwain_150096725184-11-collaborative-whiteboard`](./PratikSwain_150096725184-11-collaborative-whiteboard/) | Real-Time Collaborative Whiteboard & Canvas | Node.js, Express, Socket.io |
+| 12 | [`PratikSwain_150096725184-12-event-management-api`](./PratikSwain_150096725184-12-event-management-api/) | Event Management & Ticketing API | Node.js, Express, Firebase, Swagger |
+| 13 | [`PratikSwain_150096725184-13-quiz-api`](./PratikSwain_150096725184-13-quiz-api/) | Real-Time Group Chat & Messaging Engine | Node.js, Express, Socket.io |
+| 14 | [`PratikSwain_150096725184-14-quiz-socket`](./PratikSwain_150096725184-14-quiz-socket/) | Real-Time Multiplayer Trivia Arena | Node.js, Express, Socket.io |
+| 15 | [`PratikSwain_150096725184-15-auction-socket`](./PratikSwain_150096725184-15-auction-socket/) | Live Auction Trading Floor | Node.js, Express, Socket.io, Web Audio API |
 
 ---
 
@@ -28,7 +28,7 @@ A collection of backend development assignments covering REST APIs, real-time So
 Each project is self-contained. To run any assignment:
 
 ```bash
-cd assignment-XX-project-name
+cd PratikSwain_150096725184-XX-project-name
 npm install
 npm start          # or: npm run dev (if available)
 ```
